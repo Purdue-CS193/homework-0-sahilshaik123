@@ -13,8 +13,8 @@ Syntax highlighted code block
 
 # Sahil Shaik's First CS 193 Homework
 
-- The Icebreakers 
-- List
+- The icebreakers before every class are always fun
+- Knowing how to use the terminal before I actually went to lab was also very useful
 
 1. Numbered
 2. List
