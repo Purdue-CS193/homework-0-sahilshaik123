@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Sahil Shaik
 ## CS Student
-### Purdue University
+### Purdue Universit
 
 - Bulleted
 - List
