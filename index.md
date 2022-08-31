@@ -11,11 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Sahil Shaik
-## CS Student
-### Purdue Universit
+# Sahil Shaik's First CS 193 Homework
 
-- Bulleted
+- The Icebreakers 
 - List
 
 1. Numbered
