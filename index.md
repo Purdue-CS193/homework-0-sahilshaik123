@@ -16,9 +16,6 @@ Syntax highlighted code block
 - The icebreakers before every class are always fun
 - Knowing how to use the terminal before I actually went to lab was also very useful
 
-1. Numbered
-2. List
-
 [Link](url) and ![Image](src)
 ```
 
